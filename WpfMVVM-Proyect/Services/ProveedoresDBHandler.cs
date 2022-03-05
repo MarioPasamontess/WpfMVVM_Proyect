@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
-using WpfMVVM_Proyect.Models;
+using InformeProyecto.Models;
 
-namespace WpfMVVM_Proyect.Services
+namespace InformeProyecto.Services
 {
     class ProveedoresDBHandler
     {

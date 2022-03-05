@@ -6,10 +6,10 @@ using System.Linq;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
-using WpfMVVM_Proyect.Models;
-using WpfMVVM_Proyect.ViewModels;
+using InformeProyecto.Models;
+using InformeProyecto.ViewModels;
 
-namespace WpfMVVM_Proyect.Services
+namespace InformeProyecto.Services
 {
     class ProductosDBHandler
     {

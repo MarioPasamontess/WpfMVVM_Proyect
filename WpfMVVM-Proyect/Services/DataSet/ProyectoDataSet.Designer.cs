@@ -10,7 +10,7 @@
 
 #pragma warning disable 1591
 
-namespace WpfMVVM_Proyect.Services.DataSet {
+namespace InformeProyecto.Services.DataSet {
     
     
     /// <summary>
@@ -2712,7 +2712,7 @@ namespace WpfMVVM_Proyect.Services.DataSet {
         }
     }
 }
-namespace WpfMVVM_Proyect.Services.DataSet.ProyectoDataSetTableAdapters {
+namespace InformeProyecto.Services.DataSet.ProyectoDataSetTableAdapters {
     
     
     /// <summary>
@@ -2889,7 +2889,7 @@ SELECT DNI, Nombre, Direccion, Telefono, Email FROM cliente WHERE (DNI = @DNI)";
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.SqlClient.SqlConnection();
-            this._connection.ConnectionString = global::WpfMVVM_Proyect.Properties.Settings.Default._2dam18ConnectionString;
+            this._connection.ConnectionString = global::InformeProyecto.Properties.Settings.Default._2dam18ConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -3303,7 +3303,7 @@ SELECT Identificador, idCliente, Fecha FROM Factura WHERE (Identificador = @Iden
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.SqlClient.SqlConnection();
-            this._connection.ConnectionString = global::WpfMVVM_Proyect.Properties.Settings.Default._2dam18ConnectionString;
+            this._connection.ConnectionString = global::InformeProyecto.Properties.Settings.Default._2dam18ConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -3680,7 +3680,7 @@ SELECT IdDetalles, idFactura, Producto, Descripcion, Cantidad, Precio FROM detal
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.SqlClient.SqlConnection();
-            this._connection.ConnectionString = global::WpfMVVM_Proyect.Properties.Settings.Default._2dam18ConnectionString;
+            this._connection.ConnectionString = global::InformeProyecto.Properties.Settings.Default._2dam18ConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -4081,7 +4081,7 @@ SELECT IdDetalles, idFactura, Producto, Descripcion, Cantidad, Precio FROM detal
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "16.0.0.0")]
         private void InitConnection() {
             this._connection = new global::System.Data.SqlClient.SqlConnection();
-            this._connection.ConnectionString = global::WpfMVVM_Proyect.Properties.Settings.Default._2dam18ConnectionString;
+            this._connection.ConnectionString = global::InformeProyecto.Properties.Settings.Default._2dam18ConnectionString;
         }
         
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]

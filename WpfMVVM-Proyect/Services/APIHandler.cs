@@ -6,9 +6,9 @@ using System.Net.Http;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
-using WpfMVVM_Proyect.Models;
+using InformeProyecto.Models;
 
-namespace WpfMVVM_Proyect.Services
+namespace InformeProyecto.Services
 {
     public class APIHandler
     {

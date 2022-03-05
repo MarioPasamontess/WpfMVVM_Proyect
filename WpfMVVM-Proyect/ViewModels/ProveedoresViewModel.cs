@@ -5,10 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
-using WpfMVVM_Proyect.Commands;
-using WpfMVVM_Proyect.Models;
+using InformeProyecto.Commands;
+using InformeProyecto.Models;
 
-namespace WpfMVVM_Proyect.ViewModels
+namespace InformeProyecto.ViewModels
 {
     class ProveedoresViewModel : ViewModelBase
     {

@@ -1,9 +1,9 @@
-﻿<Application x:Class="WpfMVVM_Proyect.App"
+﻿<Application x:Class="InformeProyecto.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:WpfMVVM_Proyect"
-             xmlns:views="clr-namespace:WpfMVVM_Proyect.Views"
-             xmlns:viewmodels="clr-namespace:WpfMVVM_Proyect.ViewModels"
+             xmlns:local="clr-namespace:InformeProyecto"
+             xmlns:views="clr-namespace:InformeProyecto.Views"
+             xmlns:viewmodels="clr-namespace:InformeProyecto.ViewModels"
              StartupUri="MainWindow.xaml">
     <Application.Resources>
         <ResourceDictionary>

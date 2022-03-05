@@ -6,9 +6,9 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using WpfMVVM_Proyect.Services.DataSet.ProyectoDataSetTableAdapters;
+using InformeProyecto.Services.DataSet.ProyectoDataSetTableAdapters;
 
-namespace WpfMVVM_Proyect.Services.DataSet
+namespace InformeProyecto.Services.DataSet
 {
     class DataSetHandler
     {

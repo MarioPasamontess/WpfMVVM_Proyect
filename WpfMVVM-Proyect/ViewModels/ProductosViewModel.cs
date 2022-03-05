@@ -5,11 +5,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
-using WpfMVVM_Proyect.Commands;
-using WpfMVVM_Proyect.Models;
-using WpfMVVM_Proyect.Services;
+using InformeProyecto.Commands;
+using InformeProyecto.Models;
+using InformeProyecto.Services;
 
-namespace WpfMVVM_Proyect.ViewModels
+namespace InformeProyecto.ViewModels
 {
     class ProductosViewModel: ViewModelBase
     {

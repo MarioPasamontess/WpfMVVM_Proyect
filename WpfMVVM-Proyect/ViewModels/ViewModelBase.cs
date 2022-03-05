@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WpfMVVM_Proyect.ViewModels
+namespace InformeProyecto.ViewModels
 {
     class ViewModelBase : INotifyPropertyChanged
     {

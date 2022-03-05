@@ -6,11 +6,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Input;
-using WpfMVVM_Proyect.Models;
-using WpfMVVM_Proyect.Services;
-using WpfMVVM_Proyect.ViewModels;
+using InformeProyecto.Models;
+using InformeProyecto.Services;
+using InformeProyecto.ViewModels;
 
-namespace WpfMVVM_Proyect.Commands
+namespace InformeProyecto.Commands
 {
     class LoadProveedorCommand: ICommand
     {

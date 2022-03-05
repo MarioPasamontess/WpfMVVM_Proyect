@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace WpfMVVM_Proyect.Models
+namespace InformeProyecto.Models
 {
 
     public class ProveedorModel: INotifyPropertyChanged, ICloneable

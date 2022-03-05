@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
-using WpfMVVM_Proyect.ViewModels;
+using InformeProyecto.ViewModels;
 
-namespace WpfMVVM_Proyect.Commands
+namespace InformeProyecto.Commands
 {
     class ProveedorAlmacenCommand : ICommand
     {
