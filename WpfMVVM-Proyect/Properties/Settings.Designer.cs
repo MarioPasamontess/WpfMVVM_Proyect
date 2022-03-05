@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace InformeProyecto.Properties {
+namespace WpfMVVM_Proyect.Properties {
     
     
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]

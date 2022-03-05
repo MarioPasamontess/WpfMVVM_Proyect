@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
-using InformeProyecto.Models;
+using WpfMVVM_Proyect.Models;
 
 namespace InformeProyecto.Commands
 {

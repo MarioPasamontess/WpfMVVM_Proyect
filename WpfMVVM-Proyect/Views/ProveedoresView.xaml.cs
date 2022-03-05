@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace InformeProyecto.Views
+namespace WpfMVVM_Proyect.Views
 {
     /// <summary>
     /// Lógica de interacción para ProveedoresView.xaml

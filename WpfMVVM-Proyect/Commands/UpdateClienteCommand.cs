@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
-using InformeProyecto.Services.DataSet;
+using WpfMVVM_Proyect.Services.DataSet;
 
-namespace InformeProyecto.Commands
+namespace WpfMVVM_Proyect.Commands
 {
     class UpdateClienteCommand : ICommand
     {

@@ -12,10 +12,10 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using InformeProyecto.Models;
-using InformeProyecto.ViewModels;
+using WpfMVVM_Proyect.Models;
+using WpfMVVM_Proyect.ViewModels;
 
-namespace InformeProyecto
+namespace WpfMVVM_Proyect
 {
     /// <summary>
     /// Lógica de interacción para MainWindow.xaml

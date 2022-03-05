@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InformeProyecto.Models
+namespace WpfMVVM_Proyect.Models
 {
     public class ResponseModel
     {

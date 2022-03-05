@@ -5,12 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Input;
-using InformeProyecto.Models;
-using InformeProyecto.Services;
-using InformeProyecto.ViewModels;
-using InformeProyecto.Views;
+using WpfMVVM_Proyect.Models;
+using WpfMVVM_Proyect.Services;
+using WpfMVVM_Proyect.ViewModels;
+using WpfMVVM_Proyect.Views;
 
-namespace InformeProyecto.Commands
+namespace WpfMVVM_Proyect.Commands
 {
     class DeleteProveedorCommand : ICommand
     {

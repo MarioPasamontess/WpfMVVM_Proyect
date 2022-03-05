@@ -5,11 +5,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Input;
-using InformeProyecto.Models;
-using InformeProyecto.Services;
-using InformeProyecto.ViewModels;
+using WpfMVVM_Proyect.Models;
+using WpfMVVM_Proyect.Services;
+using WpfMVVM_Proyect.ViewModels;
 
-namespace InformeProyecto.Commands
+namespace WpfMVVM_Proyect.Commands
 {
     class LoadProductCommand : ICommand
     {
