@@ -1,5 +1,5 @@
-﻿using InformeProyecto.ViewModels;
-using InformeProyecto.Views;
+﻿using WpfMVVM_Proyect.ViewModels;
+using WpfMVVM_Proyect.Views;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 using System.Windows.Input;
 using WpfMVVM_Proyect.Models;
 
-namespace InformeProyecto.Commands
+namespace WpfMVVM_Proyect.Commands
 {
     class AñadirProductoCommand : ICommand
     {

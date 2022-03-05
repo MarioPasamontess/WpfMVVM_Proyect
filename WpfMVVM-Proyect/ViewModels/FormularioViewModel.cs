@@ -1,4 +1,4 @@
-﻿using InformeProyecto.Models;
+﻿using WpfMVVM_Proyect.Models;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
@@ -9,7 +9,7 @@ using WpfMVVM_Proyect.Commands;
 using WpfMVVM_Proyect.Models;
 using WpfMVVM_Proyect.ViewModels;
 
-namespace InformeProyecto.ViewModels
+namespace WpfMVVM_Proyect.ViewModels
 {
     class FormularioViewModel: ViewModelBase
     {

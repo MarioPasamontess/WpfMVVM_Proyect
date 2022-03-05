@@ -1,4 +1,4 @@
-﻿using InformeProyecto.ViewModels;
+﻿using WpfMVVM_Proyect.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
